@@ -1,2 +1,2 @@
-# hello-wrold
-preuba inicial
+# hello-world
+prueba inicial
